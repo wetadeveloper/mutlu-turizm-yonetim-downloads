@@ -1,8 +1,8 @@
 # Mutlu Turizm Yönetim — Windows
 
-## Güncel sürüm: 1.0.0+15
+## Güncel sürüm: 1.0.0+16
 
-[Windows kurulum dosyasını indir](https://github.com/wetadeveloper/mutlu-turizm-yonetim-downloads/releases/download/windows-v1.0.0-test.15/MutluTurizm-Yonetim-Setup.exe)
+[Windows kurulum dosyasını indir](https://github.com/wetadeveloper/mutlu-turizm-yonetim-downloads/releases/download/windows-v1.0.0-test.16/MutluTurizm-Yonetim-Setup.exe)
 
 1. Uygulama açıksa kapatın.
 2. **MutluTurizm-Yonetim-Setup.exe** dosyasını açıp Türkçe kurulumu tamamlayın.
@@ -15,7 +15,9 @@ Windows 10 (2004 veya üzeri) / Windows 11, x64 ve internet bağlantısı gereki
 Bu deneme sürümü dijital olarak imzalı değildir; Windows SmartScreen uyarısı gösterebilir.
 Windows güvenlik ayarlarını kapatmayın.
 
-[Sürüm notları ve dosya doğrulaması](https://github.com/wetadeveloper/mutlu-turizm-yonetim-downloads/releases/tag/windows-v1.0.0-test.15)
+[Sürüm notları ve dosya doğrulaması](https://github.com/wetadeveloper/mutlu-turizm-yonetim-downloads/releases/tag/windows-v1.0.0-test.16)
 
 Bu depo yalnız kurulum dosyalarını ve açıklamaları içerir. Uygulamanın kaynak kodları
 ayrı, gizli depoda tutulur. İndirme bağlantısı şirket verilerine erişim yetkisi vermez.
+
+1.0.0+16 sonrasındaki yeni Windows sürümleri uygulamanın ana ekranında gösterilir. **Güncelle** düğmesi dosyayı indirip doğrular ve kurulum ekranını açar.
