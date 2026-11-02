@@ -1,1 +1,7 @@
-{"version": "1.0.0", "build": 17, "url": "https://github.com/wetadeveloper/mutlu-turizm-yonetim-downloads/releases/download/windows-v1.0.0-test.17/MutluTurizm-Yonetim-Setup.exe", "sha256": "a3ec40a4b74dc53af84310cdcdf23879910876b7b4bd0c5ce2977ce29a47e16d", "size": 20503806}
+{
+  "version": "1.0.0",
+  "build": 18,
+  "url": "https://github.com/wetadeveloper/mutlu-turizm-yonetim-downloads/releases/download/windows-v1.0.0-test.18/MutluTurizm-Yonetim-Setup.exe",
+  "sha256": "58f5e469c5437df61ab164fa6890dccfdeb63b784e408442e527a899f8540ba2",
+  "size": 20503357
+}
